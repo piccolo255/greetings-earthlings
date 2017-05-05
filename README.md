@@ -1,2 +1,2 @@
 # greetings-earthlings
-test
+Greetings from Namek.
